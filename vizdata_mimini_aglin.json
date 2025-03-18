@@ -3,13 +3,13 @@
         {
             "relation": "选材",
             "source": "李白",
-            "target": "《静夜思》",
+            "target": "静夜思",
             "value": 3
         },
         {
             "relation": "选材",
             "source": "李白",
-            "target": "《望庐山瀑布》",
+            "target": "望庐山瀑布",
             "value": 3
         },
                 {
@@ -2873,13 +2873,13 @@
         {
             "class": "原料",
             "group": "2",
-            "id": "《静夜思》",
+            "id": "静夜思",
             "size": "8"
         },
         {
             "class": "原料",
             "group": "2",
-            "id": "《望庐山瀑布》",
+            "id": "望庐山瀑布",
             "size": "8"
         },
 

@@ -12,229 +12,7 @@
             "target": "望庐山瀑布",
             "value": 3
         },
-      
-                {
-            "relation": "选材",
-            "source": "山楂红烧肉",
-            "target": "五花肉",
-            "value": 3
-        },
-        {
-            "relation": "选材",
-            "source": "山楂红烧肉",
-            "target": "山楂",
-            "value": 3
-        },
-        {
-            "relation": "选材",
-            "source": "山楂红烧肉",
-            "target": "冰糖",
-            "value": 3
-        },
-        {
-            "relation": "选材",
-            "source": "山楂红烧肉",
-            "target": "八角",
-            "value": 3
-        },
-        {
-            "relation": "选材",
-            "source": "山楂红烧肉",
-            "target": "香叶",
-            "value": 3
-        },
-        {
-            "relation": "选材",
-            "source": "山楂红烧肉",
-            "target": "老抽",
-            "value": 3
-        },
-        {
-            "relation": "选材",
-            "source": "山楂红烧肉",
-            "target": "生抽",
-            "value": 3
-        },
-        {
-            "relation": "选材",
-            "source": "山楂红烧肉",
-            "target": "料酒",
-            "value": 3
-        },
-        {
-            "relation": "选材",
-            "source": "山楂红烧肉",
-            "target": "盐",
-            "value": 3
-        },
-        {
-            "relation": "选材",
-            "source": "栗子红烧肉",
-            "target": "五花肉",
-            "value": 3
-        },
-        {
-            "relation": "选材",
-            "source": "栗子红烧肉",
-            "target": "板栗",
-            "value": 3
-        },
-        {
-            "relation": "选材",
-            "source": "栗子红烧肉",
-            "target": "姜片",
-            "value": 3
-        },
-        {
-            "relation": "选材",
-            "source": "栗子红烧肉",
-            "target": "桂皮",
-            "value": 3
-        },
-        {
-            "relation": "选材",
-            "source": "栗子红烧肉",
-            "target": "酱油",
-            "value": 3
-        },
-        {
-            "relation": "选材",
-            "source": "栗子红烧肉",
-            "target": "冰糖",
-            "value": 3
-        },
-        {
-            "relation": "选材",
-            "source": "栗子红烧肉",
-            "target": "八角",
-            "value": 3
-        },
-        {
-            "relation": "选材",
-            "source": "桂香红烧肉",
-            "target": "五花肉",
-            "value": 3
-        },
-        {
-            "relation": "选材",
-            "source": "桂香红烧肉",
-            "target": "葱",
-            "value": 3
-        },
-        {
-            "relation": "选材",
-            "source": "桂香红烧肉",
-            "target": "姜",
-            "value": 3
-        },
-        {
-            "relation": "选材",
-            "source": "桂香红烧肉",
-            "target": "桂皮",
-            "value": 3
-        },
-        {
-            "relation": "选材",
-            "source": "桂香红烧肉",
-            "target": "香叶",
-            "value": 3
-        },
-        {
-            "relation": "选材",
-            "source": "桂香红烧肉",
-            "target": "老抽",
-            "value": 3
-        },
-        {
-            "relation": "选材",
-            "source": "桂香红烧肉",
-            "target": "生抽",
-            "value": 3
-        },
-        {
-            "relation": "选材",
-            "source": "桂香红烧肉",
-            "target": "冰糖",
-            "value": 3
-        },
-        {
-            "relation": "选材",
-            "source": "桂香红烧肉",
-            "target": "料酒",
-            "value": 3
-        },
-        {
-            "relation": "选材",
-            "source": "冻豆腐红烧肉",
-            "target": "带皮五花肉",
-            "value": 3
-        },
-        {
-            "relation": "选材",
-            "source": "冻豆腐红烧肉",
-            "target": "冻豆腐",
-            "value": 3
-        },
-        {
-            "relation": "选材",
-            "source": "冻豆腐红烧肉",
-            "target": "青菜",
-            "value": 3
-        },
-        {
-            "relation": "选材",
-            "source": "冻豆腐红烧肉",
-            "target": "油",
-            "value": 3
-        },
-        {
-            "relation": "选材",
-            "source": "冻豆腐红烧肉",
-            "target": "生姜",
-            "value": 3
-        },
-        {
-            "relation": "选材",
-            "source": "冻豆腐红烧肉",
-            "target": "大蒜",
-            "value": 3
-        },
-        {
-            "relation": "选材",
-            "source": "冻豆腐红烧肉",
-            "target": "大料",
-            "value": 3
-        },
-        {
-            "relation": "选材",
-            "source": "冻豆腐红烧肉",
-            "target": "香叶",
-            "value": 3
-        },
-        {
-            "relation": "选材",
-            "source": "冻豆腐红烧肉",
-            "target": "盐",
-            "value": 3
-        },
-        {
-            "relation": "选材",
-            "source": "冻豆腐红烧肉",
-            "target": "生抽",
-            "value": 3
-        },
-        {
-            "relation": "选材",
-            "source": "冻豆腐红烧肉",
-            "target": "老抽",
-            "value": 3
-        },
-        {
-            "relation": "选材",
-            "source": "冻豆腐红烧肉",
-            "target": "白糖",
-            "value": 3
-        },
+
         {
             "relation": "选材",
             "source": "红烧排骨",
@@ -2299,30 +2077,7 @@
             "target": "李白",
             "value": 3
         },
-        {
-            "relation": "属于",
-            "source": "1-红烧肉类",
-            "target": "山楂红烧肉",
-            "value": 3
-        },
-        {
-            "relation": "属于",
-            "source": "1-红烧肉类",
-            "target": "栗子红烧肉",
-            "value": 3
-        },
-        {
-            "relation": "属于",
-            "source": "1-红烧肉类",
-            "target": "桂香红烧肉",
-            "value": 3
-        },
-        {
-            "relation": "属于",
-            "source": "1-红烧肉类",
-            "target": "冻豆腐红烧肉",
-            "value": 3
-        },
+        
         {
             "relation": "属于",
             "source": "2-红烧排骨类",
@@ -2898,13 +2653,13 @@
 {
             "class": "原料",
             "group": "2",
-            "id": "《静夜思》",
+            "id": "静夜思",
             "size": "8"
         },
       {
             "class": "原料",
             "group": "2",
-            "id": 《望庐山瀑布》",
+            "id": "望庐山瀑布",
             "size": "8"
         },
 
